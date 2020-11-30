@@ -4,20 +4,18 @@ Built with Java, Swing, SQLite Database, the application manages the strenuous t
 Some features of the Application are as follows:
 1) Multi level login (Admin, Management, Employee)
 2) Attendance upon login
-3) Employee Management
-   <p> •	Adding Employee<br>
+3) Employee Management<br>
+    •	Adding Employee<br>
     •	Viewing Employee Information<br>
     •	Updating Employee Information<br>
     •	Deleting Employee<br>
     •	Viewing perosnal Information<br>
-    •	Viewing Salary Information</p>
-
-4) Payroll management
-    <p>•	Addition of Allowances<br>
+    •	Viewing Salary Information
+4) Payroll management<br>
+    •	Addition of Allowances<br>
     •	Addition of Bonuses(depending on employee level overtime bonuses will be incurred)<br>
     •	Deduction from salary(including calculation of tax and other deductions such as late penalties)<br>
-    •	Generating Payslip
-</pr>
+    •	Generating Payslip<br>
 5) Leave Notice
 6) Handling Leave requests by Admin
 7) Requesting of personal information update
