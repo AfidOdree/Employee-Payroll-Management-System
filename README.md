@@ -5,17 +5,19 @@ Some features of the Application are as follows:
 1) Multi level login (Admin, Management, Employee)
 2) Attendance upon login
 3) Employee Management
-    -Adding Employee
-    -Viewing Employee Information
-    -Updating Employee Information
-    -Deleting Employee
-    -Viewing perosnal Information
-    -Viewing Salary Information
+   <p> •	Adding Employee<br>
+    •	Viewing Employee Information<br>
+    •	Updating Employee Information<br>
+    •	Deleting Employee<br>
+    •	Viewing perosnal Information<br>
+    •	Viewing Salary Information</p>
+
 4) Payroll management
-    -Addition of Allowances
-    -Addition of Bonuses(depending on employee level overtime bonuses will be incurred)
-    -Deduction from salary(including calculation of tax and other deductions such as late penalties)
-    -Generating Payslip.
+    <p>•	Addition of Allowances<br>
+    •	Addition of Bonuses(depending on employee level overtime bonuses will be incurred)<br>
+    •	Deduction from salary(including calculation of tax and other deductions such as late penalties)<br>
+    •	Generating Payslip
+</pr>
 5) Leave Notice
 6) Handling Leave requests by Admin
 7) Requesting of personal information update
